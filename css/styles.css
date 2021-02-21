@@ -1,0 +1,59 @@
+html, body {
+    height: 100%;
+}
+
+body { 
+    padding-top: 4rem; 
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.logo-image{
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+}
+
+.gradient {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 21%, rgba(7,184,240,1) 100%);
+}
+
+.page-header {
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color: white;
+    padding: 4rem;
+}
+
+#david-image {
+    width: 11rem;
+    height: 10rem;
+    border-radius: 50%;
+    margin: auto;
+}
+
+#comp-image {
+    width: 11rem;
+    height: 10rem;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.project-image {
+    width: 16rem;
+    height: 16rem;
+}
+
+.project-div {
+    background-color: rgb(224, 224, 231);
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.linked-in-image {
+    width: 6rem;
+    height: 6rem;
+}
+
+
